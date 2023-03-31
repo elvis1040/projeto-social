@@ -62,5 +62,15 @@ section#redes-sociais img:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.529);
     transition: transform .3s;
     
-
 }
+
+section#botao img{
+    opacity: 0;
+    margin-top: 174px;
+    margin-left: 303px;
+    width: 50px;
+    position: relative;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+
