@@ -35,13 +35,13 @@ section#telefone{
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
 
-section > iframe#tela{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 23px;
+    height: 475px;
+    width: 265px;
+    
 
-    height: 706px;
-    width: 400px;
-    background: url('../imagens/tela-home.jpg');
+    
 }
